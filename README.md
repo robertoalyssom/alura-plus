@@ -17,6 +17,3 @@
 <p>- Uma lista com os dispositivos disponíveis para usar o Alura+.</p>
 
 <p>- Por último, o rodapé da página.</p>
-
-
-# alura-plus
